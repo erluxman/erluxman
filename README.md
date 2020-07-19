@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am Laxman Bhattarai and Profile is in progress.
 ![](https://i.imgur.com/L046AjR.png)
+![](https://i.imgur.com/pgR1eMd.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on remotely ...

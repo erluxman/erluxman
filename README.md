@@ -1,6 +1,6 @@
 ### Hi there 👋
 My new experiment with CV, please don't judge me.  (You can if you want 😉 ) 
-
+https://github-readme-stats.vercel.app/api?username=erluxman&show_icons=true
 ![](https://i.imgur.com/L046AjR.png)
 ![](https://i.imgur.com/pgR1eMd.png)
 

@@ -1,8 +1,7 @@
 ### Hi there 👋
 My new experiment with CV, please don't judge me.  (You can if you want 😉 ) 
 
-
-https://github-readme-stats.vercel.app/api?username=erluxman&show_icons=true
+[![erluxman's github stats](https://github-readme-stats.vercel.app/api?username=erluxman&show_icons=true)](https://github.com/erluxman)
 
 
 ![](https://i.imgur.com/L046AjR.png)

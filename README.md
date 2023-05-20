@@ -1,51 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Awesome GitHub Profile</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <header>
-    <h1>Welcome to My Awesome GitHub Profile!</h1>
-    <p>Hey there! I'm <strong>Erluxman</strong>, a Flutter developer with a passion for building amazing user experiences. I love working with Dart, Java, JavaScript, Python, HTML, CSS, and TypeScript.</p>
-  </header>
+# 👋 Hello there, I'm Erluxman!
 
-  <section>
-    <h2>Projects</h2>
-    <ul>
-      <li>
-        <h3>Project 1</h3>
-        <p>A short description of the project.</p>
-        <a href="https://github.com/username/repo1">GitHub Repo</a>
-      </li>
-      <li>
-        <h3>Project 2</h3>
-        <p>A short description of the project.</p>
-        <a href="https://github.com/username/repo2">GitHub Repo</a>
-      </li>
-      <!-- Add more projects as needed -->
-    </ul>
-  </section>
+## Flutter Developer | Coding Enthusiast | Lifelong Learner
 
-  <section>
-    <h2>Social Media</h2>
-    <ul>
-      <li><a href="https://facebook.com/your-facebook">Facebook</a></li>
-      <li><a href="https://twitter.com/your-twitter">Twitter</a></li>
-      <li><a href="https://linkedin.com/in/your-linkedin">LinkedIn</a></li>
-      <li><a href="https://instagram.com/your-instagram">Instagram</a></li>
-      <li><a href="https://youtube.com/your-youtube">YouTube</a></li>
-      <li><a href="https://tiktok.com/@your-tiktok">TikTok</a></li>
-      <!-- Add more social media links as needed -->
-    </ul>
-  </section>
+I'm a software developer who's proficient in Dart, Java, JavaScript, Python, HTML, CSS, and TypeScript. I primarily focus on Flutter development, building rich and interactive applications. I have a passion for learning and sharing what I know with the global coding community. 
 
-  <footer>
-    <p>Contact me at <a href="mailto:erluxman@gmail.com">erluxman@gmail.com</a></p>
-  </footer>
-</body>
-</html>
+## 🔗 Connect with me
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/erluxman)](https://www.facebook.com/erluxman)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/erluxman)](https://twitter.com/erluxman)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erluxman/)](https://www.linkedin.com/in/erluxman/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/erluxman/)](https://www.instagram.com/erluxman/)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/erluxman)](https://www.youtube.com/user/erluxman)
+[![TikTok](https://img.shields.io/badge/-TikTok-black?style=flat&logo=TikTok&logoColor=white&link=https://www.tiktok.com/@erluxman)](https://www.tiktok.com/@erluxman)
+
+## 🛠️ Languages and Tools:
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&logoColor=white)
+
+## 📬 Reach me at
+- Email: [erluxman@gmail.com](mailto:erluxman@gmail.com)
+
+## 🌱 I’m currently learning ...
+Everyday is a new opportunity to learn something new. Currently, I'm improving my understanding of Advanced Data Structures and Algorithms.
+
+## 💼 I’m currently working on ...
+I'm currently working on a personal project that involves Flutter and Firebase.
+
+##
 
 

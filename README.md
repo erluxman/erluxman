@@ -25,6 +25,7 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
 
 ![](https://i.imgur.com/zxRAhBS.png))
 ![](https://i.imgur.com/M6QFFFL.png)
+<img src="er.png" alt="HTML5 Icon" width="128" height="128">
 
 Here are some ideas to get you started:
 

@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br>
 
 
- <b>🌐 Connect with me:<b>
+ <b>🌐 Connect with me 😉<b>
 
 <p>
 <a href="https://twitter.com/erluxman" target="_blank">

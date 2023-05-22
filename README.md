@@ -43,6 +43,8 @@ Here are some ideas to get you started:
  
 <!--  <hr> --> 
  <br>
+ <hr style="height:2px; background-color:red; border-style:dashed;">
+
 
 <p style="padding-left: 20px;">
   <img src="http://surl.li/heyic" width="60%">

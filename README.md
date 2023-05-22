@@ -37,7 +37,10 @@ Here are some ideas to get you started:
 
  
  
- ![heyic](http://surl.li/heyic)
+<!--  ![heyic](http://surl.li/heyic) -->
+
+ <img src="http://surl.li/heyic" width="70%">
+
 
 
 

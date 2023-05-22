@@ -41,18 +41,18 @@ Here are some ideas to get you started:
   <img src="http://surl.li/heysl" width="60%">
 </p>
  
- <hr style="height:1px;">
+ <hr>
 
 <p style="padding-left: 20px;">
   <img src="http://surl.li/heyic" width="60%">
 </p>
  
- <hr style="height:1px;">
+ <hr>
 
 <p style="padding-left: 20px;">
   <img src="http://surl.li/heytn" width="60%">
 </p>
-<hr style="height:1px;">
+<hr>
 
 
 

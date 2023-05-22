@@ -33,17 +33,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
 <p align="center">
-  <strong>REVIEW</strong>
+  <strong>REVIEWS</strong>
 </p>
 
 <p align="center">
   ⬇️
 </p
- 
- <img src="http://surl.li/heysl" width="60%">
- <img src="http://surl.li/heyic" width="60%">
- <img src="http://surl.li/heytn" width=60%">
- 
+ <p align="center">
+  <img src="http://surl.li/heysl" width="60%">
+  <img src="http://surl.li/heyic" width="60%">
+  <img src="http://surl.li/heytn" width="60%">
+</p>
+
 
 
 

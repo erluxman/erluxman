@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 - 🌱 I’m in love with Flutter ...
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
-<p align="center">
+<p>
   <strong>REVIEWS</strong>
 </p>
 
-<p align="center">
+<p>
   ⬇️
 </p
  <p align="center">

@@ -39,8 +39,10 @@ Here are some ideas to get you started:
  
 
 
- <img src="http://surl.li/heyic" width="70%">
- <img src="http://surl.li/heysl" width="70%">
+ <img src="http://surl.li/heyic" width="60%">
+ <img src="http://surl.li/heysl" width="60%">
+ <img src="http://surl.li/heytn" width=60%">
+ 
 
 
 

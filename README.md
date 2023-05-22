@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="http://surl.li/heyic" width="50%" style="border-radius: 100%;">
+<img src="http://surl.li/heyic" width="100%" style="border-radius: 100%;">
 
 
 

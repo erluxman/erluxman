@@ -2,7 +2,7 @@
 My new experiment with CV, please don't judge me.  (You can if you want 😉 ) 
 
 Things I code with
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white" alt="Java">

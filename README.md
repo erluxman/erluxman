@@ -33,15 +33,14 @@ Here are some ideas to get you started:
 - 🌱 I’m in love with Flutter ...
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
-![Example Image](./images/er.png)
+
 
 
  <b>🌐 Connect with me:<b>
 
 <p>
-  <a href="https://twitter.com/erluxman" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  [![Twitter Follow](https://img.shields.io/twitter/follow/erluxman?style=social)](https://twitter.com/erluxman)
+
   <a href="https://www.linkedin.com/in/your_username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>

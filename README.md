@@ -1,7 +1,6 @@
 ### Hi there 👋
 <p>
 My new experiment with CV, please don't judge me.  (You can if you want 😉 ) </p>
-
  <b> 🛠️ Languages and Tools:</b>
 
 <p>

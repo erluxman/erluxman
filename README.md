@@ -32,7 +32,7 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
 </p> -->
 
 
-## 🛠️ Languages and Tools:
+<!-- ## 🛠️ Languages and Tools:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302C6D6.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter">
@@ -45,7 +45,24 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
   <img src="https://img.shields.io/badge/CSS3-%2329B6F6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23F0DB4F.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Shell-%2362FC64.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
+</p> -->
+
+
+## 🛠️ Languages and Tools:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white&color=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=0175C2&color=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=ED8B00&color=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=3776AB&color=white" alt="Python">
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=0095D5&color=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=3DDC84&color=white" alt="Android">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=E34F26&color=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=1572B6&color=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=F7DF1E&color=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Shell-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=4EAA25&color=white" alt="Shell">
 </p>
+
 
 
 

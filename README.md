@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
 
 ![](http://surl.li/heyic)
-<img src="http://surl.li/heyic" width="100" height="100">
+<img src="http://surl.li/heyic" width="50%" style="border-radius: 50%;">
+
 
 
 

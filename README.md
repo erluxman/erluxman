@@ -16,7 +16,7 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
   -->
  
- ## 🛠️ Languages and Tools:
+ <b> 🛠️ Languages and Tools:</b>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">

@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 I’m in love with Flutter ...
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
- 🌐 Connect with me:
+ <b>🌐 Connect with me:<b>
 
 <p>
   <a href="https://twitter.com/your_username" target="_blank">

@@ -1,9 +1,9 @@
 ### Hi there 👋
 My new experiment with CV, please don't judge me.  (You can if you want 😉 ) 
 
- <b> 🛠️ Languages and Tools:</b>
+<!--  <b> 🛠️ Languages and Tools:</b> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -14,7 +14,7 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
- 
+  -->
  
  ## 🛠️ Languages and Tools:
 

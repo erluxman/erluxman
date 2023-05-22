@@ -31,3 +31,30 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on remotely ...
 - 🌱 I’m in love with Flutter ...
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
+
+## 🌐 Connect with me:
+
+<p align="center">
+  <a href="https://twitter.com/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://yourblog.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog">
+  </a>
+  <a href="https://www.youtube.com/channel/your_channel_id" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://stackoverflow.com/users/your_user_id" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
+  </a>
+</p>
+

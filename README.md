@@ -18,7 +18,7 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
  
  <b> 🛠️ Languages and Tools:</b>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java">

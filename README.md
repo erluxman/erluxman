@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <h2> Reviews ⬇️ <h2>
 
-<img src="http://surl.li/heyic" width="70%" style="border-radius: 70%;">
+<img src="http://surl.li/heyic" width="70%" style="border-radius: 50%;">
 
 
 

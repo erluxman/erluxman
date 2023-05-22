@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 - 🌱 I’m in love with Flutter ...
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
-<hr>
+<hr style="background-color:black; height:1px;">
+
  <b> REVIEWS ⬇️ <b>
- <hr>
+ <hr style="background-color:white; height:1px;">
+
 
  <p style="padding-left: 40px;">
   <img src="http://surl.li/heysl" width="60%">

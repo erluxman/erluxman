@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
 
-![](http://surl.li/heyic)
-<img src="http://surl.li/heyic" width="50%" style="border-radius: 50%;">
+
+<img src="http://surl.li/heyic" width="50%" style="border-radius: 70%;">
 
 
 

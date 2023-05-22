@@ -33,28 +33,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
 <hr style="height:2px;">
-
  <b style="padding-left: 20px;">
  REVIEWS ⬇️ <b>
-
  <hr style="height:2px;">
 
  <p style="padding-left: 20px;">
   <img src="http://surl.li/heysl" width="60%">
 </p>
  
- <hr style="height:2px;">
+ <hr style="height:1px;">
 
 <p style="padding-left: 20px;">
   <img src="http://surl.li/heyic" width="60%">
 </p>
  
- <hr style="height:2px;">
+ <hr style="height:1px;">
 
 <p style="padding-left: 20px;">
   <img src="http://surl.li/heytn" width="60%">
 </p>
-<hr style="height:2px;">
+<hr style="height:1px;">
 
 
 

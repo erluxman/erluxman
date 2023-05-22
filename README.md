@@ -1,7 +1,5 @@
 ### Hi there 👋
 My new experiment with CV, please don't judge me.  (You can if you want 😉 ) 
-
- 🛠️ Languages and Tools:
  <b> 🛠️ Languages and Tools:</b>
 
 <p align="center">

@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 - 🌱 I’m in love with Flutter ...
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
-<h2> Reviews ⬇️ <h2>
+<h3> Reviews ⬇️ <h3>
 
  
  
-<!--  ![heyic](http://surl.li/heyic) -->
+
 
  <img src="http://surl.li/heyic" width="70%">
 

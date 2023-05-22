@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
 <hr>
- <p style="padding-left:200px;"><strong>Reviews ⬇️</strong></p>
+ <b> REVIEWS ⬇️ <b>
  <hr>
 
  <p style="padding-left: 40px;">
@@ -42,13 +42,13 @@ Here are some ideas to get you started:
  
  <br>
 
-<p style="padding-left: 20px;">
+<p style="padding-left: 40px;">
   <img src="http://surl.li/heyic" width="60%">
 </p>
  
  <br>
 
-<p style="padding-left: 20px;">
+<p style="padding-left: 40px;">
   <img src="http://surl.li/heytn" width="60%">
 </p>
 <hr>

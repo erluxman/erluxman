@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
 <hr>
- <b style="padding-left: 20px;">
- REVIEWS ⬇️ <b>
+ <p style="padding-left:40px;"><strong>Review</strong></p>
  <hr>
 
  <p style="padding-left: 40px;">

@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 - 🌱 I’m in love with Flutter ...
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
+<h2> Reviews ⬇️ <h2>
 
-
-<img src="http://surl.li/heyic" width="70%" style="border-radius: 65%;">
+<img src="http://surl.li/heyic" width="70%" style="border-radius: 70%;">
 
 
 

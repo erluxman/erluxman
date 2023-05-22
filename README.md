@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 - 🌱 I’m in love with Flutter ...
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
+![Example Image](./images/er.png)
+
+
  <b>🌐 Connect with me:<b>
 
 <p>

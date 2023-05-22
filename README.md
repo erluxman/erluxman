@@ -16,6 +16,7 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
 </p>
 
+
 [![erluxman's github stats](https://github-readme-stats.vercel.app/api?username=erluxman&show_icons=true)](https://github.com/erluxman)
 
 

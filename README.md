@@ -32,18 +32,20 @@ Here are some ideas to get you started:
 - 🌱 I’m in love with Flutter ...
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
-<p>
-  <strong>REVIEWS</strong>
-</p>
 
-<p>
-  ⬇️
-</p
- <p align="center">
+ <b style="padding-left: 20px;">
+ REVIEWS ⬇️ <b>
+
+ <p style="padding-left: 20px;">
   <img src="http://surl.li/heysl" width="60%">
+</p>
+<p style="padding-left: 20px;">
   <img src="http://surl.li/heyic" width="60%">
+</p>
+<p style="padding-left: 20px;">
   <img src="http://surl.li/heytn" width="60%">
 </p>
+
 
 
 

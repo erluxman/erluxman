@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <hr>
  <b> REVIEWS ⬇️ <b>
- 
+ <hr>
 
  <p style="padding-left: 40px;">
   <img src="http://surl.li/heysl" width="60%">

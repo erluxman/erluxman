@@ -21,8 +21,6 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
 
 </p>
 
-[![erluxman's github stats](https://github-readme-stats.vercel.app/api?username=erluxman&show_icons=true)](https://github.com/erluxman)
-
 ![](https://i.imgur.com/zxRAhBS.png))
 ![](https://i.imgur.com/M6QFFFL.png)
 

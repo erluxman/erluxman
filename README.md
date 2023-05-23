@@ -1,5 +1,6 @@
 ### Hi there 👋
 My new experiment with CV, please don't judge me.  (You can if you want 😉 )
+<br> <br>
  <b> 🛠️ Languages and Tool:</b>
 
 <p>
@@ -15,8 +16,6 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
   <img src="https://img.shields.io/badge/Shell-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
 
 </p>
-
-[![erluxman's github stats](https://github-readme-stats.vercel.app/api?username=erluxman&show_icons=true)](https://github.com/erluxman)
 
 
 </p>
@@ -38,64 +37,26 @@ Here are some ideas to get you started:
 <p style="padding-left: 40px;">
 <img src="https://github.com/erluxman/erluxman/assets/82518276/9ba329a7-5b2d-4118-8d34-d6211333a7d7" width="70%">
 </p>
+ <br>
  
  <p style="padding-left: 40px;">
 <img src="https://github.com/pawanacharya944/erluxman/assets/82518276/aeb099e9-029a-456d-8c2e-f6c1e8c6367c" width="70%">
-
 </p>
+ <br>
  
  
  <p style="padding-left: 40px;">
 <img src="https://github.com/pawanacharya944/erluxman/assets/82518276/d5809ebf-9879-4bab-8e30-7c0536927869" width="70%">
-
 </p>
+ <br>
  
  <p style="padding-left: 40px;">
-<img src="https://github.com/erluxman/erluxman/assets/82518276/a4900fdb-18ee-4fe5-9bf1-74de9a71549b" width="70%">
+<img src="https://github.com/pawanacharya944/erluxman/assets/82518276/db3c8cad-86aa-4c31-aa14-bb6d341364be" width="70%">
+
 </p>
  
 <hr>
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
  <b>🌐 Connect with me 😉<b>
 
 <p>
@@ -122,4 +83,5 @@ Here are some ideas to get you started:
   <a href="https://stackoverflow.com/users/2581314/erluxman" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
   </a>
+
 </p>

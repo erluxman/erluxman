@@ -1,6 +1,6 @@
 ### Hi there 👋
 My new experiment with CV, please don't judge me.  (You can if you want 😉 )
- <b> 🛠️ Languages and Tools:</b>
+ <b> 🛠️ Languages and Tool:</b>
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">

@@ -35,48 +35,32 @@ Here are some ideas to get you started:
  <b> REVIEWS ⬇️ <b>
  <hr>
  
- <br>
-
 <p style="padding-left: 40px;">
-  <img src="http://surl.li/heyic" width="70%">
+<img src="https://github.com/erluxman/erluxman/assets/82518276/9ba329a7-5b2d-4118-8d34-d6211333a7d7" width="70%">
+
 </p>
  
- <br>
+ <p style="padding-left: 40px;">
+<img src="https://github.com/erluxman/erluxman/assets/82518276/c01fe4ec-27e0-4380-8b0b-ccb847b243ed" width="70%">
 
-<p style="padding-left: 40px;">
- <img src="[http://surl.li/heytn](https://github.com/erluxman/erluxman/assets/82518276/a4900fdb-18ee-4fe5-9bf1-74de9a71549b)" width="60%">
-</p>
- 
-  <br>
-
-<p style="padding-left: 40px;">
-  <img src="[http://surl.li/heytn"](https://github.com/erluxman/erluxman/assets/82518276/f6193fea-9ee6-461f-ace1-beea7f4009e3) width="60%">
-</p>
- 
-  <br>
-
-<p style="padding-left: 40px;">
-  <img src="http://surl.li/heytn" width="60%">
-</p>
- 
-  <br>
-
-<p style="padding-left: 40px;">
-  <img src="http://surl.li/heytn" width="60%">
 </p>
  
  
-  <br>
+ <p style="padding-left: 40px;">
+<img src="https://github.com/erluxman/erluxman/assets/82518276/341900b6-b243-45f3-89f8-f0a7637a139d" width="70%">
 
-<p style="padding-left: 40px;">
-  <img src="http://surl.li/heytn" width="60%">
 </p>
  
-![WhatsApp Image 2023-05-22 at 8 22 19 PM](https://github.com/erluxman/erluxman/assets/82518276/a4900fdb-18ee-4fe5-9bf1-74de9a71549b)
-![WhatsApp Image 2023-05-22 at 8 22 01 PM](https://github.com/erluxman/erluxman/assets/82518276/f6193fea-9ee6-461f-ace1-beea7f4009e3)
-![WhatsApp Image 2023-05-22 at 8 21 58 PM](https://github.com/erluxman/erluxman/assets/82518276/341900b6-b243-45f3-89f8-f0a7637a139d)
-![WhatsApp Image 2023-05-22 at 8 21 12 PM](https://github.com/erluxman/erluxman/assets/82518276/c01fe4ec-27e0-4380-8b0b-ccb847b243ed)
-![WhatsApp Image 2023-05-22 at 8 20 52 PM](https://github.com/erluxman/erluxman/assets/82518276/9ba329a7-5b2d-4118-8d34-d6211333a7d7)
+ 
+ <p style="padding-left: 40px;">
+<img src="https://github.com/erluxman/erluxman/assets/82518276/f6193fea-9ee6-461f-ace1-beea7f4009e3" width="70%">
+
+</p>
+ 
+ <p style="padding-left: 40px;">
+<img src="https://github.com/erluxman/erluxman/assets/82518276/a4900fdb-18ee-4fe5-9bf1-74de9a71549b" width="70%">
+
+</p>
  
 <hr>
 
@@ -89,7 +73,7 @@ Here are some ideas to get you started:
   </a>
 
 
-  <a href="https://www.linkedin.com/in/your_username" target="_blank">
+  <a href="https://www.linkedin.com/in/erluxman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/erluxman/" target="_blank">
@@ -104,7 +88,7 @@ Here are some ideas to get you started:
   <a href="https://www.youtube.com/channel/UCrNwm2ZAfqF0gfPv4hrxGNg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://stackoverflow.com/users/your_user_id" target="_blank">
+  <a href="https://stackoverflow.com/users/2581314/erluxman" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
   </a>
 </p>

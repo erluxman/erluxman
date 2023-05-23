@@ -39,13 +39,13 @@ Here are some ideas to get you started:
  <br>
 
 <p style="padding-left: 40px;">
-  <img src="http://surl.li/heyic" width="60%">
+  <img src="http://surl.li/heyic" width="70%">
 </p>
  
  <br>
 
 <p style="padding-left: 40px;">
-  <img src="http://surl.li/heytn" width="60%">
+  <img src="http://surl.li/heytn" width="70%">
 </p>
 <hr>
 <br>

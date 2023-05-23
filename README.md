@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img src="http://surl.li/heytn" width="60%">
 </p>
 <hr>
-![WhatsApp Image 2023-05-22 at 8 20 52 PM](https://github.com/pawanacharya944/erluxman/assets/82518276/0ba97f49-57a2-4e57-9941-18fac9a213af)
+file:///Users/pawan/Downloads/WhatsApp%20Image%202023-05-22%20at%208.20.52%20PM.jpeg
 
 
 

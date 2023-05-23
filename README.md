@@ -40,17 +40,14 @@ Here are some ideas to get you started:
 </p>
  
  <p style="padding-left: 40px;">
-<img src="https://github.com/erluxman/erluxman/assets/82518276/c01fe4ec-27e0-4380-8b0b-ccb847b243ed" width="70%">
+<img src="https://github.com/pawanacharya944/erluxman/assets/82518276/aeb099e9-029a-456d-8c2e-f6c1e8c6367c" width="70%">
+
 </p>
  
  
  <p style="padding-left: 40px;">
-<img src="https://github.com/erluxman/erluxman/assets/82518276/341900b6-b243-45f3-89f8-f0a7637a139d" width="70%">
-</p>
- 
- 
- <p style="padding-left: 40px;">
-<img src="https://github.com/erluxman/erluxman/assets/82518276/f6193fea-9ee6-461f-ace1-beea7f4009e3" width="70%">
+<img src="https://github.com/pawanacharya944/erluxman/assets/82518276/d5809ebf-9879-4bab-8e30-7c0536927869" width="70%">
+
 </p>
  
  <p style="padding-left: 40px;">
@@ -58,6 +55,45 @@ Here are some ideas to get you started:
 </p>
  
 <hr>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
  <b>🌐 Connect with me 😉<b>

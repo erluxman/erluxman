@@ -14,6 +14,7 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Shell-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
+
 </p>
 
 
@@ -45,8 +46,40 @@ Here are some ideas to get you started:
  <br>
 
 <p style="padding-left: 40px;">
+  <img src="[http://surl.li/heytn](https://github.com/erluxman/erluxman/assets/82518276/a4900fdb-18ee-4fe5-9bf1-74de9a71549b)" width="60%">
+</p>
+ 
+  <br>
+
+<p style="padding-left: 40px;">
+  <img src="[http://surl.li/heytn"](https://github.com/erluxman/erluxman/assets/82518276/f6193fea-9ee6-461f-ace1-beea7f4009e3) width="60%">
+</p>
+ 
+  <br>
+
+<p style="padding-left: 40px;">
   <img src="http://surl.li/heytn" width="60%">
 </p>
+ 
+  <br>
+
+<p style="padding-left: 40px;">
+  <img src="http://surl.li/heytn" width="60%">
+</p>
+ 
+ 
+  <br>
+
+<p style="padding-left: 40px;">
+  <img src="http://surl.li/heytn" width="60%">
+</p>
+ 
+![WhatsApp Image 2023-05-22 at 8 22 19 PM](https://github.com/erluxman/erluxman/assets/82518276/a4900fdb-18ee-4fe5-9bf1-74de9a71549b)
+![WhatsApp Image 2023-05-22 at 8 22 01 PM](https://github.com/erluxman/erluxman/assets/82518276/f6193fea-9ee6-461f-ace1-beea7f4009e3)
+![WhatsApp Image 2023-05-22 at 8 21 58 PM](https://github.com/erluxman/erluxman/assets/82518276/341900b6-b243-45f3-89f8-f0a7637a139d)
+![WhatsApp Image 2023-05-22 at 8 21 12 PM](https://github.com/erluxman/erluxman/assets/82518276/c01fe4ec-27e0-4380-8b0b-ccb847b243ed)
+![WhatsApp Image 2023-05-22 at 8 20 52 PM](https://github.com/erluxman/erluxman/assets/82518276/9ba329a7-5b2d-4118-8d34-d6211333a7d7)
+ 
 <hr>
 
 

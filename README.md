@@ -37,29 +37,24 @@ Here are some ideas to get you started:
  
 <p style="padding-left: 40px;">
 <img src="https://github.com/erluxman/erluxman/assets/82518276/9ba329a7-5b2d-4118-8d34-d6211333a7d7" width="70%">
-
 </p>
  
  <p style="padding-left: 40px;">
 <img src="https://github.com/erluxman/erluxman/assets/82518276/c01fe4ec-27e0-4380-8b0b-ccb847b243ed" width="70%">
-
 </p>
  
  
  <p style="padding-left: 40px;">
 <img src="https://github.com/erluxman/erluxman/assets/82518276/341900b6-b243-45f3-89f8-f0a7637a139d" width="70%">
-
 </p>
  
  
  <p style="padding-left: 40px;">
 <img src="https://github.com/erluxman/erluxman/assets/82518276/f6193fea-9ee6-461f-ace1-beea7f4009e3" width="70%">
-
 </p>
  
  <p style="padding-left: 40px;">
 <img src="https://github.com/erluxman/erluxman/assets/82518276/a4900fdb-18ee-4fe5-9bf1-74de9a71549b" width="70%">
-
 </p>
  
 <hr>

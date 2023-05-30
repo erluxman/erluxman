@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: you can find me with erluxman in any platform (if I exist there)
 
 <hr>
- <b> REVIEWS ⬇️ <b>
- <hr>
+ <b> REVIEWS 👇 <b>
+ <br>
  
  <img width="684" alt="CleanShot 2023-05-30 at 20 53 08@2x" src="https://github.com/pawanacharya944/erluxman/assets/82518276/79b8ef41-2cf6-4e79-aa4f-fa3bebb13433">
 <img width="693" alt="CleanShot 2023-05-30 at 20 52 50@2x" src="https://github.com/pawanacharya944/erluxman/assets/82518276/1d533526-dc42-411d-9180-9441a65ba5f9">
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <br> 
 
 
- ### 🌐 Connect with me 😉 :
+ ### 🌐 Connect with me 😉
 
 <p>
   <a href="https://twitter.com/erluxman" target="_blank">

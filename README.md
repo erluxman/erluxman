@@ -3,25 +3,60 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
 <br> 
 <br>
  <b> 🛠️ Languages and Tool:</b>
+ 
 
+ <p>
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+  </a>
+  <a href="https://developer.android.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Shell">
+  </a>
+</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=flat-square&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Shell-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
-
+<br>
+<b> Field of Work:</b>
+ <p>
+  <img src="https://img.shields.io/badge/Fintech-9cf?style=flat" alt="Fintech">
+  <img src="https://img.shields.io/badge/Agro-green?style=flat" alt="Agro">
+  <img src="https://img.shields.io/badge/Insurance-blue?style=flat" alt="Insurance">
+  <img src="https://img.shields.io/badge/Green_Transportation-2CA079?style=flat" alt="Green Transportation">
+  <img src="https://img.shields.io/badge/ERPs-e91e63?style=flat" alt="ERPs">
+  <img src="https://img.shields.io/badge/Social_Media-8a3ab9?style=flat" alt="Social Media">
+  <img src="https://img.shields.io/badge/Data_Investing-3F72AF?style=flat" alt="Data Investing">
+  <img src="https://img.shields.io/badge/LMS-FF6D00?style=flat" alt="LMS">
+  <img src="https://img.shields.io/badge/Location_and_Fitness_Tracking-0097A7?style=flat" alt="Location and Fitness Tracking">
+  <img src="https://img.shields.io/badge/Cross_Platform_Framework_Development-blue?style=flat" alt="Cross-Platform Framework Development">
+  <img src="https://img.shields.io/badge/Crypto_Wallet-ff9800?style=flat" alt="Crypto Wallet">
+  
 </p>
 
 
-</p>
 
+
+
+<br>
 <img src="https://github.com/pawanacharya944/erluxman/assets/82518276/fbcafa90-d77b-4c15-905c-e7d3248a2780" width="100%">
 <br>
 <br>
@@ -73,31 +108,55 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
 
 <p>
   <a href="https://twitter.com/erluxman" target="_blank">
-    <img src="https://img.shields.io/badge/-_-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Twitter">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-_-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">&nbsp;&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/erluxman/" target="_blank">
-    <img src="https://img.shields.io/badge/-_-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-_-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">&nbsp;&nbsp;
   </a>
   <a href="https://www.facebook.com/erluxman" target="_blank">
-    <img src="https://img.shields.io/badge/-_-4267B2?style=plastic&logo=facebook&logoColor=white" alt="Facebook">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-_-4267B2?style=flat&logo=facebook&logoColor=white" alt="Facebook">&nbsp;&nbsp;
   </a>
   <a href="https://www.instagram.com/erluxman/" target="_blank">
-    <img src="https://img.shields.io/badge/-_-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-_-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">&nbsp;&nbsp;
   </a>
   <a href="https://erluxman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-_-000000?style=plastic&logo=blogger&logoColor=white" alt="Blog">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-_-000000?style=flat&logo=blogger&logoColor=white" alt="Blog">&nbsp;&nbsp;
   </a>
   <a href="https://www.youtube.com/channel/UCrNwm2ZAfqF0gfPv4hrxGNg" target="_blank">
-    <img src="https://img.shields.io/badge/-_-FF0000?style=plastic&logo=youtube&logoColor=white" alt="YouTube">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-_-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">&nbsp;&nbsp;
   </a>
   <a href="https://stackoverflow.com/users/2581314/erluxman" target="_blank">
-    <img src="https://img.shields.io/badge/-_-F58025?style=plastic&logo=stackoverflow&logoColor=white" alt="StackOverflow">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/-_-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="StackOverflow">&nbsp;&nbsp;
   </a>
 </p>
+ 
+ 
+ 
+
+ 
 
  
  
+ 
 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 

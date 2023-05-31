@@ -1,7 +1,9 @@
 ### Hi there 👋
 My new experiment with CV, please don't judge me.  (You can if you want 😉 )
-<br> <br>
+<br> 
+<br>
  <b> 🛠️ Languages and Tool:</b>
+
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
@@ -20,11 +22,16 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
 
 </p>
 
-![](https://i.imgur.com/zxRAhBS.png))
-![](https://i.imgur.com/M6QFFFL.png)
+<img src="https://github.com/pawanacharya944/erluxman/assets/82518276/fbcafa90-d77b-4c15-905c-e7d3248a2780" width="100%">
+<br>
+<br>
+<img src="https://github.com/pawanacharya944/erluxman/assets/82518276/0f3ac39a-7878-443a-99a0-03e94060bf38" alt="Description of the image" style="max-width: 100%;">
+
+<br>
+<br>
 
 
-Here are some ideas to get you started:
+#### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on remotely ...
 - 🌱 I’m in love with Flutter ...
@@ -32,17 +39,34 @@ Here are some ideas to get you started:
 
 <hr>
  <b> REVIEWS 👇 <b>
+<hr>
+ 
+
+ <img width="659" alt="Screenshot 2023-05-31 at 7 42 02 PM" src="https://github.com/pawanacharya944/erluxman/assets/82518276/8d1c4ec7-fb04-4839-9113-8807656ad456" width="700">
+ <br>
  <br>
  
- <img width="684" alt="CleanShot 2023-05-30 at 20 53 08@2x" src="https://github.com/pawanacharya944/erluxman/assets/82518276/79b8ef41-2cf6-4e79-aa4f-fa3bebb13433">
-<img width="693" alt="CleanShot 2023-05-30 at 20 52 50@2x" src="https://github.com/pawanacharya944/erluxman/assets/82518276/1d533526-dc42-411d-9180-9441a65ba5f9">
-<img width="687" alt="CleanShot 2023-05-30 at 20 52 36@2x" src="https://github.com/pawanacharya944/erluxman/assets/82518276/cfa1d8cb-2a09-486a-964f-0ce332a12713">
-<img width="688" alt="CleanShot 2023-05-30 at 20 52 23@2x" src="https://github.com/pawanacharya944/erluxman/assets/82518276/42de295a-6b5b-4d45-9278-31f07e98d790">
-<img width="684" alt="CleanShot 2023-05-30 at 20 52 02@2x" src="https://github.com/pawanacharya944/erluxman/assets/82518276/d8108d7d-9d76-4181-94c6-fd8439ccba72">
-<img width="661" alt="CleanShot 2023-05-30 at 20 51 54@2x" src="https://github.com/pawanacharya944/erluxman/assets/82518276/408b5f6d-b876-4eef-ab77-bccc65de9cc0">
-
+<img width="667" alt="Screenshot 2023-05-31 at 7 42 53 PM" src="https://github.com/pawanacharya944/erluxman/assets/82518276/fc999b29-e23f-42ff-9c66-86d2a83cc1c5" width="700">
+ <br>
+ <br>
  
-<br> 
+ 
+<img width="662" alt="Screenshot 2023-05-31 at 7 45 13 PM" src="https://github.com/pawanacharya944/erluxman/assets/82518276/700f3ea9-4111-47e1-af90-53a7a0d82b21" width="700">
+ <br>
+ <br>
+ 
+<img width="658" alt="Screenshot 2023-05-31 at 7 45 55 PM" src="https://github.com/pawanacharya944/erluxman/assets/82518276/03e22d03-6ae2-438d-b5fd-607f73e2c48a" width="700">
+ <br>
+ <br>
+ 
+<img width="647" alt="Screenshot 2023-05-31 at 7 46 37 PM" src="https://github.com/pawanacharya944/erluxman/assets/82518276/0f75971e-1666-4376-8ef3-ea89b4feee3d" width="700">
+ <br>
+ <br>
+ 
+<img src="https://github.com/pawanacharya944/erluxman/assets/82518276/08ad264c-a046-457a-8720-8ad87943e472" width="700">
+<hr>
+ 
+
 
 
  ### 🌐 Connect with me 😉

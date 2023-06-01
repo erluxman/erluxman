@@ -35,9 +35,14 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell">
   </a>
+ 
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-Design-orange?style=for-the-badge&logo=figma" alt="Figma">
+</a>
+
 </p>
 
-
+<br>
 
 <b> Field of Work:</b>
 
@@ -78,17 +83,6 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
   </a>
   
 </p>
-
-### Skills:
-- Mobile Development
-- Flutter
-- Figma
-- Teamwork
-- Problem-solving
-- Adaptability
-
-
-
 
 
  ### 🌐 Reach out to me:
@@ -167,4 +161,9 @@ My new experiment with CV, please don't judge me.  (You can if you want 😉 )
 <hr>
  
 
+
+  
+  
+  
+  
 
